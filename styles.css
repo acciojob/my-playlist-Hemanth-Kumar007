@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+
+h1, h2{
+	text-align: center;
+}
+
+#songlist{
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	border: 2px black solid;
+}
+
+a{
+	text-decoration-line: none;
+	color: black;
+}
+
+#medialist{
+	background-color: white;
+	border-radius: 10px;
+	border: 2px black solid;
+	text-align: center;
+}
+
+.player_one, .player_two{
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	border-radius: 10px;
+}
